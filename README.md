@@ -31,7 +31,7 @@ X_PATH | Sets the Tomcat connectors path attribute
 
 本容器已内置破解工具。
 
-1. 容器启动后打开 http://localhost:8090 Confluence 配置页面，选择我自己配置，下一步配置数据库，下一步输入许可证页面，当看到服务器 ID 后，记录下服务器 ID。
+1. 容器启动后打开 http://localhost:8090 Confluence 配置页面，选择产品配置，下一步，下一步到授权码页面，当看到服务器 ID 后，记录下服务器 ID。
 2. 用 `docker exec` 进入容器，执行如下命令
 
 ```
